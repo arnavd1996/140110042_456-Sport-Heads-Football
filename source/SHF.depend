@@ -1,0 +1,578 @@
+# depslib dependency file v1.0
+1423397070 source:c:\users\arnav\downloads\01_hello_sdl\01_hello_sdl.cpp
+	<SDL.h>
+	<stdio.h>
+
+1394937196 c:\users\arnav\desktop\cs project\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\arnav\desktop\cs project\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 c:\users\arnav\desktop\cs project\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1394937198 c:\users\arnav\desktop\cs project\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1427723124 c:\users\arnav\desktop\cs project\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 c:\users\arnav\desktop\cs project\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1394937198 c:\users\arnav\desktop\cs project\i686-w64-mingw32\include\sdl2\close_code.h
+
+1394937196 c:\users\arnav\desktop\cs project\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1394937196 c:\users\arnav\desktop\cs project\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\arnav\desktop\cs project\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\arnav\desktop\cs project\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\arnav\desktop\cs project\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 c:\users\arnav\desktop\cs project\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 c:\users\arnav\desktop\cs project\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1394937198 c:\users\arnav\desktop\cs project\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\arnav\desktop\cs project\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\arnav\desktop\cs project\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\arnav\desktop\cs project\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 c:\users\arnav\desktop\cs project\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 c:\users\arnav\desktop\cs project\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 c:\users\arnav\desktop\cs project\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 c:\users\arnav\desktop\cs project\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\arnav\desktop\cs project\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\arnav\desktop\cs project\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\arnav\desktop\cs project\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1394937198 c:\users\arnav\desktop\cs project\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1394937196 c:\users\arnav\desktop\cs project\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\arnav\desktop\cs project\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\arnav\desktop\cs project\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 c:\users\arnav\desktop\cs project\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1394937196 c:\users\arnav\desktop\cs project\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 c:\users\arnav\desktop\cs project\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\arnav\desktop\cs project\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\arnav\desktop\cs project\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\arnav\desktop\cs project\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\arnav\desktop\cs project\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\arnav\desktop\cs project\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\arnav\desktop\cs project\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 c:\users\arnav\desktop\cs project\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 c:\users\arnav\desktop\cs project\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 c:\users\arnav\desktop\cs project\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 c:\users\arnav\desktop\cs project\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 c:\users\arnav\desktop\cs project\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1423397070 source:c:\users\arnav\downloads\02_getting_an_image_on_the_screen\02_getting_an_image_on_the_screen.cpp
+	<SDL.h>
+	<stdio.h>
+
+1427726360 source:c:\users\arnav\downloads\27_collision_detection\27_collision_detection.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+
+1376156342 c:\users\arnav\desktop\cs project\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1427973459 source:c:\users\arnav\desktop\cs project\game\shf\background.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+
+1429432470 source:c:\users\arnav\desktop\cs project\game\shf\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	"ball.h"
+	"Player.h"
+	"background.h"
+	"post.h"
+	"Powerups.h"
+	"mainMenu.h"
+	<cstdlib>
+	<time.h>
+	<simplecpp>
+	<math.h>
+
+1429376311 c:\users\arnav\desktop\cs project\game\shf\include\player.h
+	"ball.h"
+	<SDL.h>
+	<string>
+
+1429378179 source:c:\users\arnav\desktop\cs project\game\shf\src\player.cpp
+	"Player.h"
+	<SDL_image.h>
+	<iostream>
+	<time.h>
+	<windows.h>
+
+1429316695 c:\users\arnav\desktop\cs project\game\shf\include\ball.h
+	"Player.h"
+	<SDL.h>
+	<string>
+	"post.h"
+
+1429432646 source:c:\users\arnav\desktop\cs project\game\shf\src\ball.cpp
+	"ball.h"
+	"Player.h"
+	"post.h"
+	<cmath>
+	<SDL_image.h>
+	<iostream>
+	<simplecpp>
+
+1428655342 source:c:\users\arnav\desktop\cs project\game\shf\src\background.cpp
+	"background.h"
+	<SDL_image.h>
+	<iostream>
+
+1428654968 c:\users\arnav\desktop\cs project\game\shf\include\background.h
+	<SDL.h>
+	<string>
+
+1428751440 c:\users\arnav\desktop\cs project\game\shf\include\goal.h
+	<SDL.h>
+	<string>
+
+1428751440 source:c:\users\arnav\desktop\cs project\game\shf\src\goal.cpp
+	"goal.h"
+	<SDL_image.h>
+	<iostream>
+
+1429361479 source:c:\users\arnav\desktop\cs project\game\shf\src\powerups.cpp
+	"Powerups.h"
+	<SDL_image.h>
+	<iostream>
+
+1428955475 c:\users\arnav\desktop\cs project\game\shf\include\powerups.h
+	<SDL.h>
+	<string>
+	"ball.h"
+	"Player.h"
+
+1429018862 source:c:\users\arnav\desktop\cs project\game\shf\src\post.cpp
+	"post.h"
+	<SDL_image.h>
+	<iostream>
+
+1429077974 c:\users\arnav\desktop\cs project\game\shf\include\post.h
+	<SDL.h>
+	"ball.h"
+	<string>
+
+1428970645 source:c:\users\arnav\desktop\stuff\cs project 1.8\game\shf\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	"ball.h"
+	"Player.h"
+	"background.h"
+	"goal.h"
+	"post.h"
+	"Powerups.h"
+	<cstdlib>
+
+1428952473 c:\users\arnav\desktop\stuff\cs project 1.8\game\shf\include\ball.h
+	"Player.h"
+	<SDL.h>
+	<string>
+
+1428963652 c:\users\arnav\desktop\stuff\cs project 1.8\game\shf\include\player.h
+	"ball.h"
+	<SDL.h>
+	<string>
+
+1428654968 c:\users\arnav\desktop\stuff\cs project 1.8\game\shf\include\background.h
+	<SDL.h>
+	<string>
+
+1428751440 c:\users\arnav\desktop\stuff\cs project 1.8\game\shf\include\goal.h
+	<SDL.h>
+	<string>
+
+1428951838 c:\users\arnav\desktop\stuff\cs project 1.8\game\shf\include\post.h
+	<SDL.h>
+	"ball.h"
+	<string>
+
+1428955475 c:\users\arnav\desktop\stuff\cs project 1.8\game\shf\include\powerups.h
+	<SDL.h>
+	<string>
+	"ball.h"
+	"Player.h"
+
+1428655342 source:c:\users\arnav\desktop\stuff\cs project 1.8\game\shf\src\background.cpp
+	"background.h"
+	<SDL_image.h>
+	<iostream>
+
+1428956283 source:c:\users\arnav\desktop\stuff\cs project 1.8\game\shf\src\ball.cpp
+	"ball.h"
+	"Player.h"
+	"post.h"
+	<cmath>
+	<SDL_image.h>
+	<iostream>
+
+1428963252 source:c:\users\arnav\desktop\stuff\cs project 1.8\game\shf\src\player.cpp
+	"Player.h"
+	<SDL_image.h>
+	<iostream>
+	<time.h>
+	<windows.h>
+
+1428931768 source:c:\users\arnav\desktop\stuff\cs project 1.8\game\shf\src\post.cpp
+	"post.h"
+	<SDL_image.h>
+	<iostream>
+
+1428956590 source:c:\users\arnav\desktop\stuff\cs project 1.8\game\shf\src\powerups.cpp
+	"Powerups.h"
+	<SDL_image.h>
+	<iostream>
+
+1429077974 source:c:\users\arnav\desktop\cs project - copy\game\shf\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	"ball.h"
+	"Player.h"
+	"background.h"
+	"goal.h"
+	"post.h"
+	"Powerups.h"
+	<cstdlib>
+
+1429078038 c:\users\arnav\desktop\cs project - copy\game\shf\include\ball.h
+	"Player.h"
+	<SDL.h>
+	<string>
+	"post.h"
+
+1429015801 c:\users\arnav\desktop\cs project - copy\game\shf\include\player.h
+	"ball.h"
+	<SDL.h>
+	<string>
+
+1428654968 c:\users\arnav\desktop\cs project - copy\game\shf\include\background.h
+	<SDL.h>
+	<string>
+
+1428751440 c:\users\arnav\desktop\cs project - copy\game\shf\include\goal.h
+	<SDL.h>
+	<string>
+
+1429077974 c:\users\arnav\desktop\cs project - copy\game\shf\include\post.h
+	<SDL.h>
+	"ball.h"
+	<string>
+
+1428955475 c:\users\arnav\desktop\cs project - copy\game\shf\include\powerups.h
+	<SDL.h>
+	<string>
+	"ball.h"
+	"Player.h"
+
+1428655342 source:c:\users\arnav\desktop\cs project - copy\game\shf\src\background.cpp
+	"background.h"
+	<SDL_image.h>
+	<iostream>
+
+1429078685 source:c:\users\arnav\desktop\cs project - copy\game\shf\src\ball.cpp
+	"ball.h"
+	"Player.h"
+	"post.h"
+	<cmath>
+	<SDL_image.h>
+	<iostream>
+
+1429077433 source:c:\users\arnav\desktop\cs project - copy\game\shf\src\player.cpp
+	"Player.h"
+	<SDL_image.h>
+	<iostream>
+	<time.h>
+	<windows.h>
+
+1429018862 source:c:\users\arnav\desktop\cs project - copy\game\shf\src\post.cpp
+	"post.h"
+	<SDL_image.h>
+	<iostream>
+
+1428956590 source:c:\users\arnav\desktop\cs project - copy\game\shf\src\powerups.cpp
+	"Powerups.h"
+	<SDL_image.h>
+	<iostream>
+
+1429374019 c:\users\arnav\desktop\cs project\game\shf\include\mainmenu.h
+	<SDL.h>
+	<SDL_image.h>
+	<cstdlib>
+	<iostream>
+
+1429376311 source:c:\users\arnav\desktop\cs project\game\shf\src\mainmenu.cpp
+	"mainMenu.h"
+
+1429316715 source:c:\users\arnav\desktop\cs project\game\shf\src\score.cpp
+
